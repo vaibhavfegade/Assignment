@@ -1,8 +1,8 @@
 # Assignment
 
-Assignment.zip contains solution for C# Assignments
+**Assignment.zip contains solution for C# Assignments**
 
-SQL Assignment:
+**Solution for SQL Assignment:**
 
 SELECT FirstName, LastName, ReportsTo, Position, Age,
 CASE WHEN ReportsTo ='Jenny Richards' THEN 'CEO'
